@@ -49,7 +49,7 @@
 
 :root {
   --radius: 0.75rem;
-  --background: oklch(0.985 0.01 95);
+  --background: oklch(0.996 0.003 95);
   --foreground: oklch(0.18 0.01 95);
   --card: oklch(0.995 0.005 95);
   --card-foreground: oklch(0.18 0.01 95);
@@ -80,7 +80,7 @@
   --sidebar-accent-foreground: oklch(0.23 0.01 95);
   --sidebar-border: oklch(0.9 0.01 95);
   --sidebar-ring: oklch(0.32 0.06 248);
-  --section: oklch(0.97 0.01 95);
+  --section: oklch(0.985 0.006 95);
   --layer: oklch(0.99 0.004 95);
   --glass: oklch(0.99 0.006 95 / 40%);
   --glass-border: oklch(0.9 0.01 95 / 40%);
