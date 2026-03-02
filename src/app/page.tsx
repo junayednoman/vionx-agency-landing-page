@@ -1,4 +1,5 @@
 import { DifferentiationSection } from "@/components/sections/differentiation-section";
+import { FaqSection } from "@/components/sections/faq-section";
 import { FinalCtaSection } from "@/components/sections/final-cta-section";
 import { FooterSection } from "@/components/sections/footer-section";
 import { HeroSection } from "@/components/sections/hero-section";
@@ -22,6 +23,7 @@ export default function Home() {
       <RoiSection />
       <ObjectionsSection />
       <DifferentiationSection />
+      <FaqSection />
       <FinalCtaSection />
       <FooterSection />
     </main>
